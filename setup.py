@@ -4,12 +4,12 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="scaffold",
-    python_requires='>3.6',
+    name="dynamic_dcs",
+    python_requires='>=3.9',
     version="0.0.1dev",
-    author="Swag mcSwaggerson",
-    author_email="swag.mcswaggerson@nirovision.com",
-    description="Template repo to show tox and pytest friendship",
+    author="Rhys Deimel",
+    author_email="deimelr@hotmail.com",
+    description="Dynamic mission generator for DCS",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages('src', exclude=['tests']),

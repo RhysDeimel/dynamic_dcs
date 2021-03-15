@@ -4,4 +4,4 @@
 # If you're pulling in other modules within this folder, don't forget to import
 # them as demonstrated in the unused example below
 
-from scaffold import foo
+from dynamic_dcs import foo
