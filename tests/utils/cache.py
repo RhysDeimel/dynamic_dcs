@@ -9,8 +9,8 @@ This might cause issues if assets are updated, so `clean` removes the cache.
 
 
 def create():
-    pass
+    return 1
 
 
 def clean():
-    pass
+    return 2
