@@ -1,4 +1,4 @@
-from scaffold import foo
+from dynamic_dcs import foo
 
 
 def test_meme_generation():

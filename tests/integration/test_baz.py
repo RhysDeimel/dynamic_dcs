@@ -1,4 +1,4 @@
-from scaffold import baz
+from dynamic_dcs import baz
 
 
 def test_herp():

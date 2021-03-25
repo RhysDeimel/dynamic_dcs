@@ -1,4 +1,4 @@
-from scaffold import bar
+from dynamic_dcs import bar
 import pytest
 
 
